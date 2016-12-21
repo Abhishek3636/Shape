@@ -17,6 +17,8 @@ namespace ASI.ES.SkillUp.Shape
         /// <param name="args">Hold command line argument</param>
         static void Main(string[] args)
         {
+
+
             #region variables and object
             //Store a result of area and perimeter
             double dblArea = 0.0;
